@@ -1,2 +1,20 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+# Projeto Exemplo Dart
+
+Projeto exemplo de Dart. Para os cursos da área de Tecnologia da Informação, do Grupo Ânima Educação.
+
+## Como rodar o projeto
+
+1. Clone o repositório
+2. Abra o projeto no Visual Studio Code
+3. Execute o projeto
+4. Veja o resultado
+
+## Comando para rodar o projeto
+
+```bash
+dart run
+```
+
+## Autor
+
+- [Professor Alexandre Montanha](https://linkedin.com/in/alexandremontanha)
